@@ -1,1 +1,3 @@
-# 1030510339_BS435_WebProgramlama
+Öğrenci Numarası: 1030510339
+Öğrenci Adı: Yusuf Enes Özkan
+Ders Adı: BS435 Web Programlama
